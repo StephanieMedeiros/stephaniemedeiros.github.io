@@ -1,12 +1,12 @@
-Meu nome é Stephanie Medeiros.
-Minha profissão é engenheira química.
+# Stephanie Medeiros
 
-As minhas experimentações
+## Sobre 
 
-Resolvi um bug que tinha nessa linha.
+Olá, eu sou a Stephanie Medeiros e adoro Git e GitHub. 
 
-Quero testar se estou conseguindo enviar para o GitHub
+Se você quiser saber mais sobre mim, pode acessar [meu facebook] (https://www.facebook.com/sm.stephaniemedeiros)
 
-Quero testar os pull requests do GitHub
+## Cursos da Platzi que fiz
 
-Estou adorando utilizar os pull requests do GitHub, assim meu fluxo de trabalho fica muito mais profissional e pessoas podem revisar o que estou mudando.
+- Curso de Programação Básica
+- Git e GitHub
