@@ -1,4 +1,5 @@
 Meu nome é Stephanie Medeiros.
+Minha profissão é engenheira química.
 
 As minhas experimentações
 
