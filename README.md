@@ -4,7 +4,7 @@
 
 Olá, eu sou a Stephanie Medeiros e adoro Git e GitHub. 
 
-Se você quiser saber mais sobre mim, pode acessar [meu site] (www.facebook.com/sm.stephaniemedeiros)
+Se você quiser saber mais sobre mim, pode acessar [meu facebook](https://www.facebook.com/sm.stephaniemedeiros)
 
 ## Cursos da Platzi que fiz
 
