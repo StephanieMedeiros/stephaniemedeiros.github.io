@@ -1,4 +1,2 @@
 As minhas experimentações
 
-
-huashuahuhasuhasuhaussuahuahsu
